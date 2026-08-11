@@ -1,0 +1,83 @@
+SOC Home Lab
+
+Project Status
+
+🔄 Planned
+
+Objective
+
+Build a controlled cybersecurity laboratory environment to develop practical skills in security monitoring, log analysis, threat detection, incident investigation, and security documentation.
+
+Skills I Plan to Develop
+
+* Security monitoring
+* Log analysis
+* Authentication analysis
+* Threat detection
+* Incident investigation
+* Incident documentation
+* Network security
+* Security operations
+* Security reporting
+
+Planned Lab Environment
+
+The laboratory will simulate a small organization’s security environment using virtual machines and security tools.
+
+Planned Components
+
+* Windows system
+* Linux system
+* Security monitoring
+* System and authentication logs
+* Network traffic analysis
+* Security alerts
+
+Investigation Workflow
+
+The lab will follow this investigation process:
+
+1. Identify a suspicious event or security alert
+2. Collect relevant evidence
+3. Analyze logs and system activity
+4. Determine whether the activity is malicious or benign
+5. Identify affected systems or accounts
+6. Document findings
+7. Recommend containment and remediation
+8. Record lessons learned
+
+Planned Investigations
+
+Investigation 1 — Suspicious Authentication Activity
+
+Analyze simulated authentication events to identify:
+
+* Repeated failed login attempts
+* Unusual login times
+* Suspicious source addresses
+* Potential brute-force behavior
+* Successful authentication following multiple failures
+
+Investigation 2 — Suspicious Process Activity
+
+Analyze system activity to identify potentially abnormal processes and determine whether additional investigation is required.
+
+Investigation 3 — Network Activity
+
+Analyze network traffic and identify unusual communication patterns.
+
+Evidence
+
+Screenshots, logs, investigation notes, analysis, and final reports will be added after the laboratory is completed.
+
+Tools
+
+Tools will be documented as they are used during the laboratory.
+
+Lessons Learned
+
+Lessons learned will be documented after each investigation.
+
+Final Outcome
+
+The completed project will demonstrate practical skills in security monitoring, log analysis, investigation, incident documentation, and security response.
